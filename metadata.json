@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Real-Time Task Tracking Dashboard",
+  "description": "Full-stack task tracking dashboard with Node.js backend, real-time database synchronization, user authentication, and interactive Kanban analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
